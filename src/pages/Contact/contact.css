@@ -1,0 +1,28 @@
+.font{
+    color: black;
+}
+
+.formBackground{
+    background-color: white;
+    border-radius: 5%;
+}
+
+.contactHeaderBackground{
+    background: hsla(23, 41%, 9%, 1);
+
+    background: linear-gradient(90deg, hsla(23, 41%, 9%, 1) 0%, hsla(18, 16%, 53%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(23, 41%, 9%, 1) 0%, hsla(18, 16%, 53%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(23, 41%, 9%, 1) 0%, hsla(18, 16%, 53%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#1F140D", endColorstr="#9B8074", GradientType=1 );
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    
+}
+
+.contactImage{
+    border-radius: 15px 50px;
+}
