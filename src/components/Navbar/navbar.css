@@ -1,0 +1,14 @@
+.navbarclass{
+    background-color: black;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    }
