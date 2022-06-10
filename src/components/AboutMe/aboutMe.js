@@ -16,7 +16,7 @@ function Aboutme({titleStyle}) {
                 <p>Currently enrolled in the MSU Coding Bootcamp to learn about full stack web development and expand my knowledge about modern technology as a whole.</p>
                 <p>e-mail: alyssa.m.cowles@gmail.com</p>
                 <p>Phone: 760-3155668</p>
-                <a className="btn btn-primary px-5 viewMyWorkBtn" href="./React-Portfolio/assets/resume/Alyssa Cowles Resume.pdf" target="_blank" download>My Resume</a>
+                <a className="btn btn-primary px-5 viewMyWorkBtn" href="/React-Portfolio/assets/resume/Alyssa Cowles Resume.pdf" target="_blank" download>My Resume</a>
             </div>
             </div>
         </div>
