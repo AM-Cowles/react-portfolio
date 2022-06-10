@@ -9,7 +9,7 @@ function Aboutme({titleStyle}) {
             <div className="row pt-5">
             <h2 id="aboutMe" className={ titleStyle + " sampleProjectsSection"}>About Me</h2>
             <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 d-flex">
-                <img src="public/assets/EZZ-Studio-9578.jpg" className="img-thumbnail m-3 mx-auto" alt="profile" width="300px" />
+                <img src="/public/assets/EZZ-Studio-9578.jpg" className="img-thumbnail m-3 mx-auto" alt="profile" width="300px" />
             </div>
             <div className="col-lg-8 col-md-8 col-sm-12 col-xs-12 introduction">
                 <p>Hello! My name is Alyssa Cowles, I'm 30 years old, living in Shelby Township, MI. After previously working towards becoming a law enforcement officer, I decided to work toward something safer, and have pursued my love for computers.</p>
